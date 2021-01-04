@@ -1,3 +1,3 @@
 # Instagram login page
 
-Clone of Instagram's landing page using HTML and CSS.  
+Clone of Instagram's web login page using HTML and CSS.  
